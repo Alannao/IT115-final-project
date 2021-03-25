@@ -1,4 +1,4 @@
-# IT115-final-project    *Scroll Down*
+# IT115-final-project - *Scroll Down*...
 ## This is a repository for the IT115 final project to demonstrate knowledge of GitHub. 
 ### We are full of GitHub knowledge.
 
